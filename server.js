@@ -33,13 +33,7 @@ const softwareProjects = [
     title: 'Needle Drop',
     description: 'A community-driven platform for vinyl enthusiasts to buy, sell, trade, and discover records, seamlessly integrating modern tools for a premium user experience.',
     link: 'https://needle-drop.netlify.app/',
-  },
-  {
-    id: 2,
-    title: 'Prism',
-    description: 'A social Web App that allows artists, venues and attendees to manage events dynamically.',
-    link: 'https://iridescent-prism.netlify.app/',
-  },
+  }
 ];
 
 const audioProjects = [
